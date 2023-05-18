@@ -1,4 +1,4 @@
-name: Feature Request
+name: Feature request
 description: Suggest an idea for this project
 title: '[feat]: '
 labels: ['feature']
@@ -6,7 +6,7 @@ body:
     - type: textarea
       id: feature
       attributes:
-          label: Proposed Feature
+          label: Proposed feature
           description: Please describe what this feature solves or improves. What is the desired functionality this feature will provide?
           placeholder: Describe feature here...
       validations:
